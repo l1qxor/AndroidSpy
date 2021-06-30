@@ -1,5 +1,5 @@
 #!/bin/bash
-if [ -x /bin/msfconsole ]
+if [ -x $PREFIX/bin/msfconsole ]
 then
 echo -e "\e[36m
         ██████  ██▓███ ▓██   ██▓                           
